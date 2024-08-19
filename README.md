@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [UI interface](#UIinterface)
-- [Sample Usage](#usage)
+- [UI interface](#ui-interface)
+- [Sample Usage](#sample-usage)
 
 ## Introduction
 This Python downloader module provides a high-performance, cross-platform solution for downloading files. With a user-friendly UI, it supports multi-threading, auto-resume capability, and fast download speeds. It is highly optimized for downloading large files, such as videos.
