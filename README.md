@@ -5,6 +5,7 @@
 - [Features](#features)
 - [UI interface](#ui-interface)
 - [Sample Usage](#sample-usage)
+- [Contribution](#contribution)
 
 ## Introduction
 This Python downloader module provides a high-performance, cross-platform solution for downloading files. With a user-friendly UI, it supports multi-threading, auto-resume capability, and fast download speeds. It is highly optimized for downloading large files, such as videos.
@@ -42,3 +43,6 @@ Built with Python and tkinter.
    }
    download_with_progress(r'.\video.mp4', url, headers=headers, timeout=10, thread_count=6, method='GET')
 4. A UI will pop up. Simply wait until download finishes!
+
+## Contribution
+Any bug report or feature improvement is welcome! Please do not hesitate to create an issue or a PR if you want to contribute to the project.
