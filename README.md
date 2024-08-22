@@ -1,4 +1,4 @@
-# High-Speed Python Downloader
+# High-Speed Internet Resource Downloader
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -8,14 +8,14 @@
 - [Contribution](#contribution)
 
 ## Introduction
-This Python downloader module provides a high-performance, cross-platform solution for downloading files. With a user-friendly UI, it supports multi-threading, auto-resume capability, and fast download speeds. It is highly optimized for downloading large files, such as videos.
+This downloader module provides a high-performance, cross-platform solution for downloading files. With a user-friendly UI, it supports multi-threading, auto-resume, and fast download speeds. It is highly optimized for downloading large files, such as videos.
 
 It has been tested to be robust against connection failures.
 
 Built with Python and tkinter. 
 
 ## Features
-- **Multi-threaded downloads** for increased speed and efficiency.
+- **Multi-threaded downloading** for increased speed and efficiency.
 - **Resume capability** to continue interrupted downloads. 
 - **User-friendly UI** shows stats and thread status.
 - **Progress tracking** visualizes download progress for each worker thread.
